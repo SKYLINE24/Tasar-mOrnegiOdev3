@@ -1,0 +1,132 @@
+
+/* Class = "UIButton"; configuration.title = ":"; ObjectID = "2ka-Sr-PkO"; */
+"2ka-Sr-PkO.configuration.title" = ":";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2ka-Sr-PkO"; */
+"2ka-Sr-PkO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Loan"; ObjectID = "3cJ-IS-fkB"; */
+"3cJ-IS-fkB.text" = "Borç";
+
+/* Class = "UILabel"; text = "Income"; ObjectID = "3eM-Rw-6h4"; */
+"3eM-Rw-6h4.text" = "Gelir";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "5ZH-OC-Vcq"; */
+"5ZH-OC-Vcq.configuration.title" = "Giriş";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5ZH-OC-Vcq"; */
+"5ZH-OC-Vcq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Sending Payment to Clients"; ObjectID = "8HS-Hs-2fE"; */
+"8HS-Hs-2fE.text" = "Müşterilere Gönderilen Ödeme";
+
+/* Class = "UILabel"; text = "$400"; ObjectID = "Bgj-mE-KrS"; */
+"Bgj-mE-KrS.text" = "10.727₺";
+
+/* Class = "UILabel"; text = "Receiving Salary From Company"; ObjectID = "Cyj-zE-KrZ"; */
+"Cyj-zE-KrZ.text" = "Şirketten Alınan Maaş";
+
+/* Class = "UILabel"; text = "See all"; ObjectID = "G62-XM-OgA"; */
+"G62-XM-OgA.text" = "Tümünü Gör";
+
+/* Class = "UILabel"; text = "IOS Developer"; ObjectID = "Ioo-Ue-WyB"; */
+"Ioo-Ue-WyB.text" = "IOS Geliştirici";
+
+/* Class = "UILabel"; text = "Expenses"; ObjectID = "JXh-HD-qxT"; */
+"JXh-HD-qxT.text" = "Giderler";
+
+/* Class = "UIButton"; configuration.title = "Exit"; ObjectID = "Jpq-JM-WyM"; */
+"Jpq-JM-WyM.configuration.title" = "Çıkış";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Jpq-JM-WyM"; */
+"Jpq-JM-WyM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Loan"; ObjectID = "KR7-RX-Qml"; */
+"KR7-RX-Qml.text" = "Borç";
+
+/* Class = "UILabel"; text = "$8900"; ObjectID = "Kqb-BO-eAf"; */
+"Kqb-BO-eAf.text" = "240.237,70₺";
+
+/* Class = "UIButton"; configuration.title = "||"; ObjectID = "NbU-76-xoZ"; */
+"NbU-76-xoZ.configuration.title" = "||";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NbU-76-xoZ"; */
+"NbU-76-xoZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "$150"; ObjectID = "OUW-pZ-U9t"; */
+"OUW-pZ-U9t.text" = "4.048,95₺";
+
+/* Class = "UILabel"; text = "Sent"; ObjectID = "Ov2-l9-vsi"; */
+"Ov2-l9-vsi.text" = "Gönderilen";
+
+/* Class = "UILabel"; text = "$890"; ObjectID = "Pmn-1Q-abt"; */
+"Pmn-1Q-abt.text" = "24.023,77₺";
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "Rhq-eS-LtE"; */
+"Rhq-eS-LtE.text" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Receive"; ObjectID = "SsI-89-WQH"; */
+"SsI-89-WQH.text" = "Receive";
+
+/* Class = "UILabel"; text = "E. Can Keleş"; ObjectID = "Ti5-W5-TVR"; */
+"Ti5-W5-TVR.text" = "E. Can Keleş";
+
+/* Class = "UILabel"; text = "Expense"; ObjectID = "V2O-We-aO7"; */
+"V2O-We-aO7.text" = "Gelir";
+
+/* Class = "UILabel"; text = "Loan for the Car"; ObjectID = "eXc-3R-lvp"; */
+"eXc-3R-lvp.text" = "Araba Kredisi";
+
+/* Class = "UILabel"; text = "All"; ObjectID = "gY1-HI-LfR"; */
+"gY1-HI-LfR.text" = "Tümü";
+
+/* Class = "UILabel"; text = "Sep 16,2023"; ObjectID = "h3v-8u-rFr"; */
+"h3v-8u-rFr.text" = "16 Eylül 2023";
+
+/* Class = "UILabel"; text = "Income"; ObjectID = "hrh-LF-e3y"; */
+"hrh-LF-e3y.text" = "Elde";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "i7U-vo-JiR"; */
+"i7U-vo-JiR.text" = "Bugün";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "mKt-Nk-4DH"; */
+"mKt-Nk-4DH.text" = "Email Adres";
+
+/* Class = "UILabel"; text = "$30.00"; ObjectID = "maK-ZW-H78"; */
+"maK-ZW-H78.text" = "$809.79";
+
+/* Class = "UILabel"; text = "$250"; ObjectID = "q11-dg-3v1"; */
+"q11-dg-3v1.text" = "6.748,25₺";
+
+/* Class = "UILabel"; text = "Payment from Andrea"; ObjectID = "qhm-A8-Rm0"; */
+"qhm-A8-Rm0.text" = "Andrea'dan gelen ödeme";
+
+/* Class = "UIButton"; configuration.title = "Recent Transactions"; ObjectID = "qrQ-jt-3oY"; */
+"qrQ-jt-3oY.configuration.title" = "Son İşlemler";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qrQ-jt-3oY"; */
+"qrQ-jt-3oY.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Usernam@gmail.com"; ObjectID = "rNL-Av-0LV"; */
+"rNL-Av-0LV.placeholder" = "kullaniciadi@gmail.com";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "tAK-kq-e6z"; */
+"tAK-kq-e6z.text" = "Ödeme";
+
+/* Class = "UITextField"; placeholder = "**********"; ObjectID = "v60-LI-QSC"; */
+"v60-LI-QSC.placeholder" = "**********";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "weR-Zw-XGm"; */
+"weR-Zw-XGm.text" = "Şifre";
+
+/* Class = "UILabel"; text = "$5500"; ObjectID = "wfG-TI-aKH"; */
+"wfG-TI-aKH.text" = "148.461,50₺";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "wu6-lT-6qa"; */
+"wu6-lT-6qa.text" = "Kayıt";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "ww2-T1-BHj"; */
+"ww2-T1-BHj.text" = "Genel Bakış";
+
+/* Class = "UILabel"; text = "Recent Transactions"; ObjectID = "zrR-8I-PSA"; */
+"zrR-8I-PSA.text" = "Son İşlemler";
